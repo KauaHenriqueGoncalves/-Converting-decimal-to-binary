@@ -10,7 +10,7 @@ Este é um sistema simples de conversão de números decimais para binários com
 ## Como usar
 > - Digite o número decimal no campo de entrada.
 > - Pressione o botão "Converter".
-> - O número binário correspondente será exibido abaixo do botão de conversão.
+> - O número binário correspondente será exibido abaixo do campo de entrada.
 
 ## Tecnologias utilizadas
 Este sistema foi desenvolvido utilizando as seguintes tecnologias:
