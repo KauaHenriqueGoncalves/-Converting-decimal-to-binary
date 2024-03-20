@@ -19,8 +19,5 @@ Este sistema foi desenvolvido utilizando as seguintes tecnologias:
 > - CSS3
 > - JavaScript
 
-## Pré-requisitos
-Não há pré-requisitos específicos para utilizar este sistema. Basta acessar a página web em um navegador compatível.
-
 ## Autor
 Este sistema foi desenvolvido por Kauã Henrique Gonçalves.
