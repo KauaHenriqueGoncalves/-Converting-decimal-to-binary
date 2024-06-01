@@ -19,8 +19,5 @@ Este sistema foi desenvolvido utilizando as seguintes tecnologias:
 > - CSS3
 > - JavaScript
 
-## Visual:
-![Image](assests/image/Example.png)
-
 ## Autor
 Este sistema foi desenvolvido por Kauã Henrique Gonçalves.
